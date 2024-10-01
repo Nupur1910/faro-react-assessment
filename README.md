@@ -18,9 +18,14 @@ You may also see any lint errors in the console.
 
 npm install react-router-dom
 
-npm install -D tailwindcss postcss autoprefixer
+![Screenshot (299)](https://github.com/user-attachments/assets/d5eb2cd9-8c73-4e2b-86f4-04487686b368)
+![Screenshot (298)](https://github.com/user-attachments/assets/342ca29d-441b-4865-a13f-939529744a82)
+
+
+
+/*npm install -D tailwindcss postcss autoprefixer
 
 npx tailwindcss init -p
 
-npm install @heroicons/react@v1
+npm install @heroicons/react@v1*/
 
