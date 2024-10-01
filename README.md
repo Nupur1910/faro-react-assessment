@@ -17,10 +17,10 @@ You may also see any lint errors in the console.
 ### Install all these dependencies before running:
 
 npm install react-router-dom
+![Screenshot (299)](https://github.com/user-attachments/assets/90a49281-6697-440a-9804-06baffdbbe56)
 
-![Screenshot (299)](https://github.com/user-attachments/assets/d5eb2cd9-8c73-4e2b-86f4-04487686b368)
-![Screenshot (298)](https://github.com/user-attachments/assets/342ca29d-441b-4865-a13f-939529744a82)
 
+![Screenshot (297)](https://github.com/user-attachments/assets/4be94ecd-7ec5-43af-ba63-b49dcdd93288)
 
 
 /*npm install -D tailwindcss postcss autoprefixer
